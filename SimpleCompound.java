@@ -1,7 +1,7 @@
 import java.awt.*;  
 import java.awt.event.*;  
 import java.applet.*;  
-import java.util .*;
+import java.util.*;
 import java.math.*;
 
 public class SimpleCompound extends Applet implements ActionListener  
